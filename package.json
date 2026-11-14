@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-city-specialist-scientist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Scientist class: a city specialist, one who researches.",
   "repository": "git@github.com:civ-clone/base-city-specialist-scientist.git",
   "keywords": [
